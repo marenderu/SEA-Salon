@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Database1ModelStoreContainer" CdmEntityContainer="Database1Entities1">
+    <EntitySetMapping Name="Reviews">
+      <EntityTypeMapping TypeName="Database1Model.Review">
+        <MappingFragment StoreEntitySet="Reviews">
+          <ScalarProperty Name="ReviewID" ColumnName="ReviewID" />
+          <ScalarProperty Name="Rating" ColumnName="Rating" />
+          <ScalarProperty Name="Comment" ColumnName="Comment" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Reservations">
+      <EntityTypeMapping TypeName="Database1Model.Reservation">
+        <MappingFragment StoreEntitySet="Reservation">
+          <ScalarProperty Name="DateandTime" ColumnName="DateandTime" />
+          <ScalarProperty Name="Service" ColumnName="Service" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ReservationId" ColumnName="ReservationId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="Database1Model.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="Role" ColumnName="Role" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
