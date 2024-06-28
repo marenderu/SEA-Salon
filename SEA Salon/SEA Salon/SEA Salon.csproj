@@ -93,6 +93,7 @@
     <Content Include="Styles\HomePage.css" />
     <Content Include="Styles\LoginPage.css" />
     <Content Include="Styles\RegisterPage.css" />
+    <Content Include="Styles\ReservationPage.css" />
     <Content Include="Styles\ReviewPage.css" />
     <Content Include="Views\HomePage.aspx" />
     <Content Include="Views\LoginPage.aspx" />

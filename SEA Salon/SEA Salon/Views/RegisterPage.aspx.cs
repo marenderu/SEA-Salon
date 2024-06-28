@@ -25,8 +25,6 @@ namespace SEA_Salon.Views
             string phoneNumber = phnNumber_txt.Text;
             string password = password_txt.Text;
 
-            //int id = (from x in db.Users select x.UserID).FirstOrDefault() + 1;
-
             User user = UserFactory.CreateUser(name, email, phoneNumber, password);
             UserRepository.CreateUser(user);
 

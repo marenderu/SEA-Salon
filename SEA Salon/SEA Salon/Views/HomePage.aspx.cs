@@ -12,22 +12,22 @@ namespace SEA_Salon.Views
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (Session["User"] == null)
-            {
-                Response.Redirect("LoginPage.aspx");
-            }
+            //if (Session["User"] == null)
+            //{
+            //    Response.Redirect("LoginPage.aspx");
+            //}
 
-            User user = (User)Session["User"];
+            //User user = (User)Session["User"];
             
 
-            if(user.Role == "Customer")
-            {
-                BookNowLink.Visible = true;
-            }
-            else
-            {
-                BookNowLink.Visible = false;
-            }
+            //if(user.Role == "Customer")
+            //{
+            //    BookNowLink.Visible = true;
+            //}
+            //else
+            //{
+            //    BookNowLink.Visible = false;
+            //}
         }
     }
 }

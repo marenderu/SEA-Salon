@@ -17,41 +17,45 @@
                 </ul>
             </nav>
             <div class="content">
-                <h1>Beauty and Elegance Redefined</h1>
-                <br />
-                <br />
-                <h2>Our Services</h2>
-                <div class="card-container">
-                    <div class="card">
-                        <div class="card-image">
-                            <img src="../Images/haircut.jpg">
-                            <div class="card-overlay"></div>
-                        </div>
-                        <div class="card-content">
-                            <h3>Haircut</h3>
-                        </div>
+                <h1>SEA Salon</h1>
+                <h2>Beauty and Elegance Redefined</h2>
+            </div>
+            <div class="container-overlay"></div>
+        </div>
+
+        <div class="our-service">
+            <h2>Our Services</h2>
+            <div class="card-container">
+                <div class="card">
+                    <div class="card-image">
+                        <img src="../Images/haircut.jpg">
+                        <div class="card-overlay"></div>
                     </div>
-                    <div class="card">
-                        <div class="card-image">
-                            <img src="../Images/Facial_Treatment.jpg">
-                            <div class="card-overlay"></div>
-                        </div>
-                        <div class="card-content">
-                            <h3>Facial Treatment</h3>
-                        </div>
+                    <div class="card-content">
+                        <h3>Haircut</h3>
                     </div>
-                    <div class="card">
-                        <div class="card-image">
-                            <img src="../Images/Manicure.jpg">
-                            <div class="card-overlay"></div>
-                        </div>
-                        <div class="card-content">
-                            <h3>Manicure</h3>
-                        </div>
+                </div>
+                <div class="card">
+                    <div class="card-image">
+                        <img src="../Images/Facial_Treatment.jpg">
+                        <div class="card-overlay"></div>
+                    </div>
+                    <div class="card-content">
+                        <h3>Facial Treatment</h3>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-image">
+                        <img src="../Images/Manicure.jpg">
+                        <div class="card-overlay"></div>
+                    </div>
+                    <div class="card-content">
+                        <h3>Manicure</h3>
                     </div>
                 </div>
             </div>
         </div>
+
         <div class="footer">
             <h2>Contact Us</h2>
             <h3>Thomas</h3>

@@ -39,6 +39,8 @@ namespace SEA_Salon.Views
 
             Reservation newReservation = ReservationFactory.CreateReservation(nama, service, combinedDateTime);
             ReservationRepository.CreateReservation(newReservation);
+
+            Response.Redirect("HomePage.aspx");
         }
     }
 }

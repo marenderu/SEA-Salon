@@ -24,15 +24,6 @@ namespace SEA_Salon.Views
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// nama_lbl control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label nama_lbl;
-
-        /// <summary>
         /// nama_txt control.
         /// </summary>
         /// <remarks>
@@ -40,15 +31,6 @@ namespace SEA_Salon.Views
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox nama_txt;
-
-        /// <summary>
-        /// phnnmbr_lbl control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label phnnmbr_lbl;
 
         /// <summary>
         /// phnnumber_txt control.
@@ -60,15 +42,6 @@ namespace SEA_Salon.Views
         protected global::System.Web.UI.WebControls.TextBox phnnumber_txt;
 
         /// <summary>
-        /// service_lbl control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label service_lbl;
-
-        /// <summary>
         /// service_ddl control.
         /// </summary>
         /// <remarks>
@@ -76,15 +49,6 @@ namespace SEA_Salon.Views
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.DropDownList service_ddl;
-
-        /// <summary>
-        /// ServiceDateTime_lbl control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label ServiceDateTime_lbl;
 
         /// <summary>
         /// datepiker control.
