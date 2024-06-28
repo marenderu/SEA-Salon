@@ -18,7 +18,7 @@ namespace SEA_Salon.Views
             }
 
             User user = (User)Session["User"];
-            name_lbl.Text = user.FullName;
+            
 
             if(user.Role == "Customer")
             {

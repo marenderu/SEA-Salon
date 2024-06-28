@@ -18,8 +18,11 @@ namespace SEA_Salon.Views
             service_ddl.Items.Add(new ListItem("Haircuts and styling"));
             service_ddl.Items.Add(new ListItem("manicure and pedicure"));
             service_ddl.Items.Add(new ListItem("facial treatments"));
-            
-            
+
+            if (Session["User"] == null)
+            {
+                Response.Redirect("LoginPage.aspx");
+            }
         }
 
         protected void submit_btn_Click(object sender, EventArgs e)

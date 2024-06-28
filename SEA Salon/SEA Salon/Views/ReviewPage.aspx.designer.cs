@@ -24,15 +24,6 @@ namespace SEA_Salon.Views
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// nama_lbl control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label nama_lbl;
-
-        /// <summary>
         /// nama_txt control.
         /// </summary>
         /// <remarks>
@@ -42,15 +33,6 @@ namespace SEA_Salon.Views
         protected global::System.Web.UI.WebControls.TextBox nama_txt;
 
         /// <summary>
-        /// rating_lbl control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label rating_lbl;
-
-        /// <summary>
         /// rating_txt control.
         /// </summary>
         /// <remarks>
@@ -58,15 +40,6 @@ namespace SEA_Salon.Views
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox rating_txt;
-
-        /// <summary>
-        /// comment_lbl control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label comment_lbl;
 
         /// <summary>
         /// comment_txt control.

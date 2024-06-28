@@ -24,15 +24,6 @@ namespace SEA_Salon.Views
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// fullName_lbl control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label fullName_lbl;
-
-        /// <summary>
         /// fullName_txt control.
         /// </summary>
         /// <remarks>
@@ -40,15 +31,6 @@ namespace SEA_Salon.Views
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox fullName_txt;
-
-        /// <summary>
-        /// email_lbl control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label email_lbl;
 
         /// <summary>
         /// email_txt control.
@@ -60,15 +42,6 @@ namespace SEA_Salon.Views
         protected global::System.Web.UI.WebControls.TextBox email_txt;
 
         /// <summary>
-        /// phnNumber_lbl control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label phnNumber_lbl;
-
-        /// <summary>
         /// phnNumber_txt control.
         /// </summary>
         /// <remarks>
@@ -76,15 +49,6 @@ namespace SEA_Salon.Views
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox phnNumber_txt;
-
-        /// <summary>
-        /// password_lbl control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label password_lbl;
 
         /// <summary>
         /// password_txt control.

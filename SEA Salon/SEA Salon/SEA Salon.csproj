@@ -90,8 +90,10 @@
       <LastGenOutput>DatabaseModel.cs</LastGenOutput>
     </Content>
     <Content Include="Scripts\Reservation.js" />
-    <Content Include="Styles\Style.css" />
-    <Content Include="Views\alllUser.aspx" />
+    <Content Include="Styles\HomePage.css" />
+    <Content Include="Styles\LoginPage.css" />
+    <Content Include="Styles\RegisterPage.css" />
+    <Content Include="Styles\ReviewPage.css" />
     <Content Include="Views\HomePage.aspx" />
     <Content Include="Views\LoginPage.aspx" />
     <Content Include="Views\RegisterPage.aspx" />
@@ -132,13 +134,6 @@
     <Compile Include="Repository\ReviewRepository.cs" />
     <Compile Include="Repository\singleton.cs" />
     <Compile Include="Repository\UserRepository.cs" />
-    <Compile Include="Views\alllUser.aspx.cs">
-      <DependentUpon>alllUser.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Views\alllUser.aspx.designer.cs">
-      <DependentUpon>alllUser.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Views\HomePage.aspx.cs">
       <DependentUpon>HomePage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -194,7 +189,9 @@
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

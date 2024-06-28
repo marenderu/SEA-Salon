@@ -4,24 +4,24 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <title>Review</title>
+    <link rel="stylesheet" type="text/css" href="../Styles/ReviewPage.css"/>
 </head>
 <body>
-    <h1>Review Form</h1>
-    <form id="form1" runat="server">
-        <div>
-            <asp:Label ID="nama_lbl" runat="server" Text="Nama: "></asp:Label>
-            <asp:TextBox ID="nama_txt" runat="server"></asp:TextBox>
-        </div>
-        <div>
-            <asp:Label ID="rating_lbl" runat="server" Text="rating (1-5 stars): "></asp:Label>
-            <asp:TextBox ID="rating_txt" runat="server"></asp:TextBox>
-        </div>
-        <div>
-            <asp:Label ID="comment_lbl" runat="server" Text="comments: "></asp:Label>
-            <asp:TextBox ID="comment_txt" runat="server"></asp:TextBox>
-        </div>
-        <asp:Button ID="Insert_btn" runat="server" Text="Send" OnClick="Insert_btn_Click"/>
-    </form>
+    <div class="wrapper">
+        <form id="form1" runat="server">
+            <h1>Review Us</h1>
+            <div class="input-box">
+                <asp:TextBox class="input" ID="nama_txt" runat="server" placeholder="Nama"></asp:TextBox>
+            </div>
+            <div class="input-box">
+                <asp:TextBox class="input" ID="rating_txt" runat="server" placeholder="Rating (1-5)"></asp:TextBox>
+            </div>
+            <div class="input-box">
+                <asp:TextBox class="input" ID="comment_txt" runat="server" placeholder="Comment"></asp:TextBox>
+            </div>
+            <asp:Button ID="Insert_btn" runat="server" Text="Send" OnClick="Insert_btn_Click"/>
+        </form>
+    </div>
 </body>
 </html>
