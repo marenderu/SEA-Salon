@@ -19,10 +19,23 @@ namespace SEA_Salon.Views
             service_ddl.Items.Add(new ListItem("manicure and pedicure"));
             service_ddl.Items.Add(new ListItem("facial treatments"));
 
-            if (Session["User"] == null)
-            {
-                Response.Redirect("LoginPage.aspx");
-            }
+            time_ddl.Items.Add(new ListItem("9:00 AM"));
+            time_ddl.Items.Add(new ListItem("10:00 AM"));
+            time_ddl.Items.Add(new ListItem("11:00 AM"));
+            time_ddl.Items.Add(new ListItem("12:00 AM"));
+            time_ddl.Items.Add(new ListItem("1:00 PM"));
+            time_ddl.Items.Add(new ListItem("2:00 PM"));
+            time_ddl.Items.Add(new ListItem("3:00 PM"));
+            time_ddl.Items.Add(new ListItem("4:00 PM"));
+            time_ddl.Items.Add(new ListItem("5:00 PM"));
+            time_ddl.Items.Add(new ListItem("6:00 PM"));
+            time_ddl.Items.Add(new ListItem("7:00 PM"));
+            time_ddl.Items.Add(new ListItem("8:00 PM"));
+
+            //if (Session["User"] == null)
+            //{
+            //    Response.Redirect("LoginPage.aspx");
+            //}
         }
 
         protected void submit_btn_Click(object sender, EventArgs e)
@@ -30,11 +43,11 @@ namespace SEA_Salon.Views
             string nama = nama_txt.Text;
             string service = service_ddl.Text;
             string datestring = datepiker.Text;
-            string timeString = timepiker.Text;
+            string timeString = time_ddl.Text;
 
 
             DateTime date = DateTime.ParseExact(datestring, "d/M/yyyy", CultureInfo.InvariantCulture);
-            DateTime time = DateTime.ParseExact(timeString, "hh:mmtt", System.Globalization.CultureInfo.InvariantCulture);
+            DateTime time = Convert.ToDateTime(timeString);
             DateTime combinedDateTime = date.Date.Add(time.TimeOfDay);
 
             Reservation newReservation = ReservationFactory.CreateReservation(nama, service, combinedDateTime);

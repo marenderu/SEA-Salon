@@ -5,8 +5,8 @@
     });
 
     $("#timepiker").timepicker({
-        Format: 'h:mm p',
-        step: 60,
+        Format: 'h:a',
+        interval: 60,
         minTime: '9:00am',
         maxTime: '8:00pm',
         dropdown: true,

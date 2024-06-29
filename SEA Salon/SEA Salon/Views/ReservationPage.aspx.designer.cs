@@ -60,13 +60,13 @@ namespace SEA_Salon.Views
         protected global::System.Web.UI.WebControls.TextBox datepiker;
 
         /// <summary>
-        /// timepiker control.
+        /// time_ddl control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox timepiker;
+        protected global::System.Web.UI.WebControls.DropDownList time_ddl;
 
         /// <summary>
         /// submit_btn control.

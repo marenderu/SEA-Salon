@@ -39,7 +39,10 @@
             </div>
 
             <div class="input-box">
-                <asp:TextBox class="input" ID="timepiker" runat="server" placeholder="Select Time"></asp:TextBox>
+                <asp:DropDownList class="ddl-input" ID="time_ddl" runat="server">
+                <asp:ListItem Text="-- Select Time --" Value="" Selected="True" />
+                </asp:DropDownList>
+                <%--<asp:TextBox class="input" ID="timepiker" runat="server" placeholder="Select Time"></asp:TextBox>--%>
             </div>
 
             <asp:Button ID="submit_btn" runat="server" Text="Submit" OnClick="submit_btn_Click" />

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\sea salon\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|c:\\projects\\repositories\\sea-salon\\sea salon\\sea salon\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|solutionrelative:sea salon\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\sea salon\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|solutionrelative:sea salon\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\sea salon\\views\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|solutionrelative:sea salon\\views\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\sea salon\\scripts\\reservation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -22,7 +22,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__PROJECTS_REPOSITORIES_SEA_SALON_SEA_SALON_SEA_SALON_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.User.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|c:\\projects\\repositories\\sea-salon\\sea salon\\sea salon\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\sea salon\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|solutionrelative:sea salon\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -51,10 +51,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\sea salon\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|solutionrelative:sea salon\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\sea salon\\views\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|solutionrelative:sea salon\\views\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\sea salon\\views\\homepage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,6 +82,10 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\SEA_Salon\\SEA Salon\\SEA Salon\\Views\\ServicesPage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\SEA Salon\\Styles\\Style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SEA Salon\\Styles\\Style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -95,18 +95,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dbo.User [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__PROJECTS_REPOSITORIES_SEA_SALON_SEA_SALON_SEA_SALON_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.User.sql",
-              "ToolTip": "dbo.User [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-28T08:07:55.794Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -117,8 +107,7 @@
               "RelativeToolTip": "SEA Salon\\Views\\RegisterPage.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-27T10:30:29.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T10:30:29.434Z"
             },
             {
               "$type": "Document",
@@ -130,12 +119,11 @@
               "RelativeToolTip": "SEA Salon\\Views\\ReservationPage.aspx*",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-26T06:52:35.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T06:52:35.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 21,
               "Title": "Style.css",
               "DocumentMoniker": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\SEA Salon\\Styles\\Style.css",
               "RelativeDocumentMoniker": "SEA Salon\\Styles\\Style.css",
@@ -143,8 +131,7 @@
               "RelativeToolTip": "SEA Salon\\Styles\\Style.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-26T07:34:13.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T07:34:13.782Z"
             },
             {
               "$type": "Document",
@@ -152,8 +139,8 @@
               "Title": "HomePage.aspx",
               "DocumentMoniker": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\SEA Salon\\Views\\HomePage.aspx",
               "RelativeDocumentMoniker": "SEA Salon\\Views\\HomePage.aspx",
-              "ToolTip": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\SEA Salon\\Views\\HomePage.aspx",
-              "RelativeToolTip": "SEA Salon\\Views\\HomePage.aspx",
+              "ToolTip": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\SEA Salon\\Views\\HomePage.aspx*",
+              "RelativeToolTip": "SEA Salon\\Views\\HomePage.aspx*",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-06-25T08:34:46.988Z",
@@ -181,8 +168,7 @@
               "RelativeToolTip": "SEA Salon\\Scripts\\Reservation.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-06-26T07:25:39.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T07:25:39.141Z"
             },
             {
               "$type": "Document",
@@ -195,6 +181,28 @@
               "ViewState": "AQIAAAsAAAAAAAAAAAAcwCIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T10:39:40.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.aspx.cs",
+              "DocumentMoniker": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\SEA Salon\\Views\\HomePage.aspx.cs",
+              "RelativeDocumentMoniker": "SEA Salon\\Views\\HomePage.aspx.cs",
+              "ToolTip": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\SEA Salon\\Views\\HomePage.aspx.cs",
+              "RelativeToolTip": "SEA Salon\\Views\\HomePage.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:03:56.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.User [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__PROJECTS_REPOSITORIES_SEA_SALON_SEA_SALON_SEA_SALON_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.User.sql",
+              "ToolTip": "dbo.User [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-28T08:07:55.794Z"
             },
             {
               "$type": "Document",
@@ -255,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "ReviewFactory.cs",
               "DocumentMoniker": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\SEA Salon\\Factory\\ReviewFactory.cs",
               "RelativeDocumentMoniker": "SEA Salon\\Factory\\ReviewFactory.cs",
@@ -268,18 +276,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "HomePage.aspx.cs",
-              "DocumentMoniker": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\SEA Salon\\Views\\HomePage.aspx.cs",
-              "RelativeDocumentMoniker": "SEA Salon\\Views\\HomePage.aspx.cs",
-              "ToolTip": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\SEA Salon\\Views\\HomePage.aspx.cs",
-              "RelativeToolTip": "SEA Salon\\Views\\HomePage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBwAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T13:03:56.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "HomePage.aspx.designer.cs",
               "DocumentMoniker": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\SEA Salon\\Views\\HomePage.aspx.designer.cs",
               "RelativeDocumentMoniker": "SEA Salon\\Views\\HomePage.aspx.designer.cs",
@@ -292,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "DatabaseModel.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\SEA Salon\\Models\\DatabaseModel.edmx",
               "RelativeDocumentMoniker": "SEA Salon\\Models\\DatabaseModel.edmx",
@@ -303,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "ReservationPage.aspx.cs",
               "DocumentMoniker": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\SEA Salon\\Views\\ReservationPage.aspx.cs",
               "RelativeDocumentMoniker": "SEA Salon\\Views\\ReservationPage.aspx.cs",
@@ -315,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\SEA Salon\\Models\\User.cs",
               "RelativeDocumentMoniker": "SEA Salon\\Models\\User.cs",
@@ -327,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "ReservationFactory.cs",
               "DocumentMoniker": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\SEA Salon\\Factory\\ReservationFactory.cs",
               "RelativeDocumentMoniker": "SEA Salon\\Factory\\ReservationFactory.cs",
@@ -339,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "ReservationPage.aspx.designer.cs",
               "DocumentMoniker": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\SEA Salon\\Views\\ReservationPage.aspx.designer.cs",
               "RelativeDocumentMoniker": "SEA Salon\\Views\\ReservationPage.aspx.designer.cs",
@@ -351,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "ServicesPage.html",
               "DocumentMoniker": "C:\\Projects\\SEA_Salon\\SEA Salon\\SEA Salon\\Views\\ServicesPage.html",
               "RelativeDocumentMoniker": "..\\..\\..\\SEA_Salon\\SEA Salon\\SEA Salon\\Views\\ServicesPage.html",

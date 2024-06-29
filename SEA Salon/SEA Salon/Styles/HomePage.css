@@ -103,8 +103,8 @@ nav {
 
     .our-service h2 {
         color: white;
-        font-size: 50px;
-        margin-bottom: 30px; /* Margin below the title */
+        font-size: 30px;
+        margin-bottom: 20px; /* Margin below the title */
     }
 
 .card-container {
@@ -165,20 +165,56 @@ nav {
 
 /* Footer */
 .footer {
-    text-align: center;
-    background-color: black;
-    width: 100%;
-    padding: 20px 8%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+    flex-direction: column; /* Arrange footer items vertically */
+    align-items: center; /* Center items horizontally */
+    text-align: center; /* Center items vertically */
+    padding: 40px 0;
+    background-color: black; /* Dark background */
+    color: white; /* White text */
 }
 
-    .footer h2 {
-        color: ghostwhite;
+.footer-content {
+    margin: 20px 0;
+}
+
+    .footer-content h4 {
+        font-size:18px;
+        margin-bottom: 10px;
     }
 
-    .footer h3 {
-        color: ghostwhite;
+    .footer-content p {
+        margin: 5px 0;
+        font-size: 14px;
     }
 
-    .footer p {
+    .footer-content .logo{
+        width: 180px;
+    }
+
+    .footer-content.social a {
+        margin: 0 10px;
         color: white;
+        font-size: 24px;
     }
+
+    .footer-content.contacts p, .footer-content.address p {
+        font-size: 14px;
+        margin: 5px 0;
+        text-align: center;
+    }
+
+    .footer-content.social {
+        display: flex; /* Flexbox for social icons */
+        justify-content: center; /* Center icons */
+        align-items: center; /* Align icons in center */
+    }
+    
+    .footer-content.social a {
+        display: inline-block; /* Inline block for icons */
+        font-size: 22px; /* Size of icons */
+        color: white; /* Color of icons */
+        margin: 0 10px; /* Space between icons */
+        transition: color 0.3s; /* Smooth color transition */
+        }
