@@ -7,6 +7,7 @@
 3. click the 'continue' button to continue the installation
 ![installation](SEA%20Salon/SEA%20Salon/Images/readme-installation.png)
 4. after finishing the installation a window will pop up. there are a few things we need to configure. choose the following components : 
+
 ![installation](SEA%20Salon/SEA%20Salon/Images/readme-config1.png)
 ![installation](SEA%20Salon/SEA%20Salon/Images/readme-config2.jpg)
 ![installation](SEA%20Salon/SEA%20Salon/Images/readme-config3.jpg)
