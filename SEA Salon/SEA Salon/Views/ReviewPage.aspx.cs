@@ -14,7 +14,10 @@ namespace SEA_Salon.Views
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if (Session["User"] == null)
+            {
+                Response.Redirect("LoginPage.aspx");
+            }
         }
 
         protected void Insert_btn_Click(object sender, EventArgs e)
