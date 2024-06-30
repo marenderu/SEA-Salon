@@ -13,7 +13,6 @@
 ![installation](SEA%20Salon/SEA%20Salon/Images/readme-config3.jpg)
 ![installation](SEA%20Salon/SEA%20Salon/Images/readme-config4.jpg)
 5. press install in the bottom right, it should take a little above 20gb 
-
 6. clone this repo and open the .sln file located at (SEA-Salon\SEA Salon)
 7. press the green run icon in the top right of visual studio to run the file
 ![configuration](SEA%20Salon/SEA%20Salon/Images/readme-config5.jpg)
