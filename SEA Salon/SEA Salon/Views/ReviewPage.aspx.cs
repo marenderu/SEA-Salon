@@ -26,7 +26,7 @@ namespace SEA_Salon.Views
             Review newReview = ReviewFactory.CreateReview(rating, comments, nama);
             ReviewRepository.CreateReview(newReview);
 
-
+            Response.Redirect("HomePage.aspx");
         }
     }
 }

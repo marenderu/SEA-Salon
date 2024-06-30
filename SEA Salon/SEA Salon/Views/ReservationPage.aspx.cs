@@ -32,10 +32,10 @@ namespace SEA_Salon.Views
             time_ddl.Items.Add(new ListItem("7:00 PM"));
             time_ddl.Items.Add(new ListItem("8:00 PM"));
 
-            //if (Session["User"] == null)
-            //{
-            //    Response.Redirect("LoginPage.aspx");
-            //}
+            if (Session["User"] == null)
+            {
+                Response.Redirect("LoginPage.aspx");
+            }
         }
 
         protected void submit_btn_Click(object sender, EventArgs e)
