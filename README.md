@@ -17,7 +17,7 @@
 
 6. clone this repo and open the .sln file located at (SEA-Salon\SEA Salon)
 
-7. press the green run icon in the top right of visual studio to run the file
+7. press the green run icon in the top middle of visual studio to run the file
 ![configuration](SEA%20Salon/SEA%20Salon/Images/readme-config5.jpg)
 
 ## How to use app
