@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\sea salon\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|solutionrelative:sea salon\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|c:\\projects\\repositories\\sea-salon\\sea salon\\sea salon\\views\\reviewpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|solutionrelative:sea salon\\views\\reviewpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\sea salon\\views\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|solutionrelative:sea salon\\views\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|c:\\projects\\repositories\\sea-salon\\sea salon\\sea salon\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|solutionrelative:sea salon\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\sea salon\\views\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,11 +99,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ReviewPage.aspx.cs",
               "DocumentMoniker": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\SEA Salon\\Views\\ReviewPage.aspx.cs",
               "RelativeDocumentMoniker": "SEA Salon\\Views\\ReviewPage.aspx.cs",
@@ -128,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "HomePage.aspx",
               "DocumentMoniker": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\SEA Salon\\Views\\HomePage.aspx",
               "RelativeDocumentMoniker": "SEA Salon\\Views\\HomePage.aspx",
@@ -189,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RegisterPage.aspx.cs",
               "DocumentMoniker": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\SEA Salon\\Views\\RegisterPage.aspx.cs",
               "RelativeDocumentMoniker": "SEA Salon\\Views\\RegisterPage.aspx.cs",
@@ -197,12 +197,11 @@
               "RelativeToolTip": "SEA Salon\\Views\\RegisterPage.aspx.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T12:36:43.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T12:36:43.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ReservationPage.aspx.cs",
               "DocumentMoniker": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\SEA Salon\\Views\\ReservationPage.aspx.cs",
               "RelativeDocumentMoniker": "SEA Salon\\Views\\ReservationPage.aspx.cs",
@@ -210,8 +209,7 @@
               "RelativeToolTip": "SEA Salon\\Views\\ReservationPage.aspx.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAD4vyIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T05:55:54.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T05:55:54.176Z"
             },
             {
               "$type": "Document",
