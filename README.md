@@ -30,4 +30,5 @@
 6. you can see the data for reservation, review, and users on the left hand side. double click on the database1entities if the icon color is red.
 ![image](SEA%20Salon/SEA%20Salon/Images/readme-howtouse1.jpg)
 7. if the server explorer tab hasnt been opened, you can open it by opening the 'App_Data' folder and double clicking the database1.mdf file
+
 ![image](SEA%20Salon/SEA%20Salon/Images/readme-howtouse2.jpg)
