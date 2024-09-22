@@ -5,6 +5,7 @@ Sea Salon offers an easy-to-use platform for customers to browse reviews and mak
 ## What i learned
 - Pattern Software Designs(Factory, Models, Repository, etc)
 - Database interactions (Create, Read, Update, Delete)
+- ASP.NET
 
 
 ## How to run
