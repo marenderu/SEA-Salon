@@ -1,5 +1,12 @@
 # SEA-Salon
  
+Sea Salon offers an easy-to-use platform for customers to browse reviews and make reservations for salon services online. It allows for you to rate the salon, gives a review massage, and book an appointment for future visits.
+
+## What i learned
+- Pattern Software Designs(Factory, Models, Repository, etc)
+- Database interactions (Create, Read, Update, Delete)
+
+
 ## How to run
 
 1. download microsoft visual studio (not visual studio code)
