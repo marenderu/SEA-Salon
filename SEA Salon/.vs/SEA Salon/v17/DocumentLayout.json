@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\sea salon\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|c:\\projects\\repositories\\sea-salon\\sea salon\\sea salon\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|solutionrelative:sea salon\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|c:\\projects\\repositories\\sea-salon\\sea salon\\sea salon\\views\\reviewpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|C:\\Projects\\Repositories\\SEA-Salon\\SEA Salon\\sea salon\\views\\reviewpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE43E26B-5E09-4A53-B672-1D26FA0563D6}|SEA Salon\\SEA Salon.csproj|solutionrelative:sea salon\\views\\reviewpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -111,8 +111,7 @@
               "RelativeToolTip": "SEA Salon\\Views\\ReviewPage.aspx.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T15:56:39.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-30T15:56:39.332Z"
             },
             {
               "$type": "Document",
