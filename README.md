@@ -5,6 +5,7 @@ Sea Salon offers an easy-to-use platform for customers to browse reviews and mak
 ## What i learned
 - Domain Driven Designs (Factory, Models, Repository, etc)
 - Database interactions (Create, Read, Update, Delete)
+- Connecting database with webforms
 - ASP.NET
 
 
